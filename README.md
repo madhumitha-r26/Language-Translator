@@ -3,6 +3,10 @@
 ## Overview
 This project is a simple Language Translator application built using Python's Tkinter library for the graphical user interface (GUI) and the `deep_translator` library for translation functionality. The application allows users to input text and select a target language for translation.
 
+## IDE Used
+- Spyder (for executing GUI of the project)
+- VS Code (for executing complete functionality of the project)
+
 ## Features
 - Input text field for entering the text to be translated.
 - Dropdown menu to select the target language from a predefined list.
