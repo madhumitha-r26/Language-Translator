@@ -54,3 +54,11 @@ Replace `translator.py` with the name of the file containing the code if it diff
 
 ## Error Handling
 If an invalid language is selected or if there is an issue during the translation process, an error message will be displayed.
+
+
+## Sample Output
+![lt1](https://github.com/user-attachments/assets/5daf6947-9e14-4219-913d-10ae2d537959)
+![lt2](https://github.com/user-attachments/assets/15b57dc5-994e-47b0-a0e2-c62aa7e24f90)
+![lt3](https://github.com/user-attachments/assets/35fec392-160d-4b12-a9ce-9deac73c5378)
+
+
