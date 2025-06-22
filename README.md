@@ -1,4 +1,4 @@
-# Language Translator README
+# Language Translator
 
 ## Overview
 This project is a simple Language Translator application built using Python's Tkinter library for the graphical user interface (GUI) and the `deep_translator` library for translation functionality. The application allows users to input text and select a target language for translation.
